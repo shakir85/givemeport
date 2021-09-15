@@ -1,6 +1,7 @@
 #!/bin/python3
 import socket
 
+# TODO: if /bin/python3 not found, try /usr/bin/python3
 
 def give_me_free_ports():
     ports = []
