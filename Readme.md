@@ -4,6 +4,9 @@ A simple script to allocate a free port at request time.  The script binds to po
 ## Why this script?
 Mainly to save time and frustration searching for available ports on a machine. This is especially handy when working with containers or any application that require port binding.
 
+## Requirements
+- Python3
+
 ## Usage
 - `chmod +x givemeport.py`
 - Add the script to `$PATH` 
